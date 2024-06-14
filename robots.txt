@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brextearyphe.github.io/sitemap
+Sitemap: https://brextearyphe.github.io/app/sitemap
+Sitemap: https://brextearyphe.github.io/assets/sitemap
+Sitemap: https://brextearyphe.github.io/css/sitemap
+Sitemap: https://brextearyphe.github.io/includes/sitemap
+Sitemap: https://brextearyphe.github.io/item/sitemap
+Sitemap: https://brextearyphe.github.io/src/sitemap
